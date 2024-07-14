@@ -1,0 +1,2 @@
+Used for check the git and GitHub connection
+
